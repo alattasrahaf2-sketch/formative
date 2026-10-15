@@ -1,0 +1,12 @@
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Data (licensed, not for publishing)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db

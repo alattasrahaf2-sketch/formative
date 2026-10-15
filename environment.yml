@@ -1,0 +1,7 @@
+name: formative
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-tidyverse
+prefix: C:\Users\alatt\miniforge3\envs\formative

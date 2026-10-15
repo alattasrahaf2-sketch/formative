@@ -4,4 +4,5 @@ channels:
 dependencies:
   - r-base
   - r-tidyverse
+  - r-this.path
 prefix: C:\Users\alatt\miniforge3\envs\formative
